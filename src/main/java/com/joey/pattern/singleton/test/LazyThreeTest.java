@@ -13,7 +13,6 @@ import java.util.stream.Collectors;
 public class LazyThreeTest {
 
 
-    //懒汉式存在线程不安全
     public static void main(String[] args) {
 
 
